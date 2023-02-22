@@ -53,13 +53,14 @@ border-bottom: 3px solid white;
     color: black;
     margin-top 50px;
 }
-.container h1{
+*/
+.container h4{
     font-size: 150px;
     margin: 0;
     font-weight: 800;
     letter-spacing: 15px;
 }
-*/
+
 .container a{
     text-align:center;
     background: orange;
