@@ -17,6 +17,7 @@ header{
     text-align: center;
     width: 100%;
     padding: 40px 60px;
+    */
 }
 nav{
     display: flex;
@@ -42,7 +43,7 @@ nav ul li a:hover{
 border-bottom: 3px solid white;
 
 }
-
+/*
 .container{
     width: 100%;
     position: absolute;
