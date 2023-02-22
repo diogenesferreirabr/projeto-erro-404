@@ -58,7 +58,8 @@ border-bottom: 3px solid white;
     font-size: 25px;
     margin: 0;
     font-weight: 800;
-    letter-spacing: 15px;
+    /*letter-spacing: 15px;*/
+    text-align:center ;
 }
 
 .container a{
