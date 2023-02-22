@@ -69,7 +69,8 @@ border-bottom: 3px solid white;
     display: inline-block;
     border-radius: 50px;
     font-size: 15px;
-    align-items:end
+    align-items:center ;
+    border-bottom: 5px; 
 }
 img {
     padding: 100px 150px;
