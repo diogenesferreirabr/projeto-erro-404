@@ -62,9 +62,9 @@ border-bottom: 3px solid white;
 */
 .container a{
     background: orange;
-    padding: 100px 100px;
+    padding: 15px 25px;
     display: inline-block;
-    border-radius: 25px;
+    border-radius: 50px;
     font-size: 15px;
     align-items:end
 }
