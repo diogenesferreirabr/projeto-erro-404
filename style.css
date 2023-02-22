@@ -69,6 +69,7 @@ border-bottom: 3px solid white;
     align-items:end
 }
 img {
+    padding: 40px 60px;
     top: 50;
     align-items:center
     text-align: center;
