@@ -71,8 +71,8 @@ border-bottom: 3px solid white;
 img {
     align-items:center
     text-align:center;
-    marging-top: 90px; 
-    marging-left: 100px;
+    marging-top::after 90px; 
+    marging-right: 100px;
 }
 (39 sloc)  717 Bytes
 
