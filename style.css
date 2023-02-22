@@ -61,6 +61,7 @@ border-bottom: 3px solid white;
 }
 */
 .container a{
+    text-align:center;
     background: orange;
     padding: 15px 25px;
     display: inline-block;
