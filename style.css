@@ -68,6 +68,7 @@ border-bottom: 3px solid white;
     font-size: 15px;
 }
 img {
+    align-items:center
     text-align:center;
     marging-top: 90px; 
     marging-left: 100px;
