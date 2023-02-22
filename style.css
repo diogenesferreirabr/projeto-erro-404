@@ -59,13 +59,14 @@ border-bottom: 3px solid white;
     font-weight: 800;
     letter-spacing: 15px;
 }
+*/
 .container a{
     background: orange;
     padding: 12px 24px;
     display: inline-block;
     border-radius: 25px;
     font-size: 15px;
-}*/
+}
 img {
     text-align:center;
     marging-top: 90px; 
@@ -117,5 +118,5 @@ img {
 }
 
 body {
-    background-color: burlywood;
+    background-color: green;
 }
