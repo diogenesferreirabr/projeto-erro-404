@@ -1,4 +1,4 @@
-*{
+*{/*
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -67,5 +67,53 @@ border-bottom: 3px solid white;
 }
 img {
     text-align:center;
-    marging-top: 20px; 
+    marging-top: 60px; 
+}*/
+(39 sloc)  717 Bytes
+
+.header{
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+}
+
+.header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 25px;
+    border-radius: 5 px;
+}
+
+.header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.header a.active {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.header-right {
+    float: right;
+    background-color: rgb(43, 159, 226);
+}
+
+.header a{
+    float: none;
+    display: block;
+    text-align: left;
+    background-color: blue;
+}
+
+.header-right {
+    float: none;
+}
+
+body {
+    background-color: burlywood;
 }
