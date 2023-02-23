@@ -76,6 +76,7 @@ color: greenyellow;
     font-size: 15px;
     align-items:center ;
     border-bottom: 10px; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     
 }
 img {
@@ -132,7 +133,7 @@ img {
 }
 
 body {
-    background-color: rgb(138, 13, 138);
+    background-color: red;
     text-align: center;
     
 }
